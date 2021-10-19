@@ -1,0 +1,10 @@
+.playIcon{
+    font-size: 80px !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.playIcon:hover{
+    transition: 100ms transform ease-in-out;
+    transform: scale(1.08);
+}
